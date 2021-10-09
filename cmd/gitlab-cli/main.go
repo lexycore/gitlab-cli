@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lexycore/gitlab-tools/internal/cli"
+	"github.com/lexycore/gitlab-cli/internal/cli"
 )
 
 func main() {

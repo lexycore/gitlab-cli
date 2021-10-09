@@ -6,8 +6,8 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/lexycore/gitlab-tools/internal/client"
-	"github.com/lexycore/gitlab-tools/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/client"
+	"github.com/lexycore/gitlab-cli/internal/config"
 )
 
 // take a look:

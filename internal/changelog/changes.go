@@ -8,7 +8,7 @@ import (
 	"github.com/go-git/go-git/v5/plumbing/object"
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/lexycore/gitlab-tools/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/config"
 )
 
 const defaultChanges = "  some changes were made"

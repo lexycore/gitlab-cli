@@ -9,11 +9,11 @@ import (
 	"github.com/urfave/cli/v2/altsrc"
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/lexycore/gitlab-tools/internal/changelog"
-	"github.com/lexycore/gitlab-tools/internal/client"
-	"github.com/lexycore/gitlab-tools/internal/config"
-	"github.com/lexycore/gitlab-tools/internal/operation"
-	"github.com/lexycore/gitlab-tools/version"
+	"github.com/lexycore/gitlab-cli/internal/changelog"
+	"github.com/lexycore/gitlab-cli/internal/client"
+	"github.com/lexycore/gitlab-cli/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/operation"
+	"github.com/lexycore/gitlab-cli/version"
 )
 
 const (

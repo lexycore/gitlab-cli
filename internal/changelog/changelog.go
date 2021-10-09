@@ -13,7 +13,7 @@ import (
 
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/lexycore/gitlab-tools/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/config"
 )
 
 // Item contains changelog item

@@ -20,7 +20,7 @@ type GitLabPath struct {
 	Project string
 }
 
-// Config represents common gitlab-tools settings
+// Config represents common gitlab-cli settings
 type Config struct {
 	GitLabURL       string
 	GitLabToken     string

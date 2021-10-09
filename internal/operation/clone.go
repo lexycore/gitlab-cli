@@ -5,8 +5,8 @@ import (
 
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/lexycore/gitlab-tools/internal/config"
-	"github.com/lexycore/gitlab-tools/internal/util"
+	"github.com/lexycore/gitlab-cli/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/util"
 )
 
 func Clone(git *gitlab.Client, cfg *config.Config, path *config.GitLabPath, exclude string) error {

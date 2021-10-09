@@ -1,4 +1,4 @@
-module github.com/lexycore/gitlab-tools
+module github.com/lexycore/gitlab-cli
 
 go 1.16
 

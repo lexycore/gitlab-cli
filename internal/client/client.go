@@ -5,7 +5,7 @@ import (
 
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/lexycore/gitlab-tools/internal/config"
+	"github.com/lexycore/gitlab-cli/internal/config"
 )
 
 func InitClient(cfg *config.Config) (*gitlab.Client, error) {
